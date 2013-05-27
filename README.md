@@ -3,6 +3,6 @@ Android project that demonstrates 4-directions swipe navigation as into my [Urba
 Quick demo of the 4-directions swipe navigation:
 [https://vimeo.com/66999298](https://vimeo.com/66999298)
 
-Read more about implementation here:
+Read more about the implementation here:
 [http://vision-apps.blogspot.com/2013/05/4-directions-swipe-navigation.html](http://vision-apps.blogspot.com/2013/05/4-directions-swipe-navigation.html)
 
