@@ -1,3 +1,5 @@
+# This is a fork! #
+FROM:https://bitbucket.org/NxAlex/swipes-navigation-demo/src/4db50c325363?at=master
 # Swipes navigation #
 Android project that demonstrates 4-directions swipe navigation as into my [Urban Curiosity](https://play.google.com/store/apps/details?id=com.visionapps.urban "Urban Curiosity") application.
 By 4-directions swipe navigation I mean the UI with a central part from which you can navigate to left, right, top and bottom areas with a swipe gesture.
